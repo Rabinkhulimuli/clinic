@@ -1,3 +1,4 @@
+"use client"
 import SlideViewer from '@/components/SliderViewer';
 import type { NextPage } from 'next';
 
